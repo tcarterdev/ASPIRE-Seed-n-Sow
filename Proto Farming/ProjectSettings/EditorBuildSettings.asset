@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scn_firebaseInit.unity
+    guid: 9daad8b376803c243a28b2b5ff16ed0f
+  - enabled: 1
+    path: Assets/Scenes/scn_splashscreen.unity
+    guid: 51a491ad774f9584e85bf633e3d6773d
+  - enabled: 1
+    path: Assets/Scenes/scn_farm_mode.unity
+    guid: d1f315b7eec802f46b840d4661422eca
+  - enabled: 1
+    path: Assets/Scenes/scn_house_interior.unity
+    guid: f0d1cd530a32da64e8f82415dc5e82e1
+  - enabled: 1
+    path: Assets/Scenes/scn_ar_map.unity
+    guid: 0e797b950162f8f4898a3530d3c1667e
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e8b7278be3d60e54bb470c1d3879fa05,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: f7faec21c3dc99a40aef8160ceeed825, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: a37d2d56ee577e4498fe5b45a54e54cc, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 8bcc63a6e8690814e8124cbadf21ca03,
+      type: 2}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379666194857",
+    "firebase_url": "https://farming-rpg-game-c06b4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "farming-rpg-game-c06b4",
+    "storage_bucket": "farming-rpg-game-c06b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379666194857:android:de0616bacd1c285808e4b8",
+        "android_client_info": {
+          "package_name": "com.ASPIRE.ProtoFarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379666194857-2djnuugnbqklnci3b0t4b7r43477s48q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ASPIRE.ProtoFarming",
+            "certificate_hash": "73eb658b6a8e4f4e14bcf7a0602db3098498f78a"
+          }
+        },
+        {
+          "client_id": "379666194857-takmb4ou32iqpmilh1q33c8lkmhjf2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5OaQqRLouIzb7JuYO5fA0YvAO69JzDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379666194857-takmb4ou32iqpmilh1q33c8lkmhjf2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

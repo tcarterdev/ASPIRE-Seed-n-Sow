@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: sco_tomato_seeds
+  m_EditorClassIdentifier: 
+  itemName: Tomato Seeds
+  itemId: 0
+  itemIcon: {fileID: 21300000, guid: 1dbbe706fb32aa14db8194936908199d, type: 3}
+  itemDescription: 
+  itemType: 1
+  itemCategory: 0
+  droppedItemPrefab: {fileID: 3473644319748325150, guid: 7253e64714b5710459abeb48ee92fd70,
+    type: 3}
+  canStack: 1
+  maxInStack: 50
+  buildPrefab: {fileID: 6173851176430461316, guid: 1084855d938939d4fbbfca6b78d1c341,
+    type: 3}
+  plantData: {fileID: 11400000, guid: 7edd4eac49b0a0444935f171723d900a, type: 2}
+  buildPreview: {fileID: 0}
+  canEat: 0
+  replenishAmount: 0
+  ingridents: []

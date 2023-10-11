@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: sco_lemon
+  m_EditorClassIdentifier: 
+  itemName: Lemon
+  itemId: 21
+  itemIcon: {fileID: 21300000, guid: 7a77e74018b881440872f99dc995e9c8, type: 3}
+  itemDescription: 
+  itemType: 0
+  itemCategory: 0
+  droppedItemPrefab: {fileID: 7697094611230574646, guid: 202358b9ce30cc049acb0eb35dd8e925,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 3
+  ingridents: []

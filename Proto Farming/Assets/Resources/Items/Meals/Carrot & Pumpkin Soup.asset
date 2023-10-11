@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Carrot & Pumpkin Soup
+  m_EditorClassIdentifier: 
+  itemName: Carrot & Pumpkin Soup
+  itemId: 46
+  itemIcon: {fileID: 21300000, guid: 812d8ef145b777d4fb208a566e8061fd, type: 3}
+  itemDescription: This rustic dish is usually served in autumn with some hard bread.
+    Like a warm hug when the cold bites.
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: 0e8db1c470a2d7f449a335db939813c7,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 12
+  ingridents:
+  - {fileID: 21300000, guid: bd675d6f69cb4874bb16d76b9e122354, type: 3}
+  - {fileID: 21300000, guid: 6ebbcf437694e564c8a5b288bdf00312, type: 3}
+  - {fileID: 21300000, guid: 5d9276ff40f733e489d9f29cf6fa6b44, type: 3}

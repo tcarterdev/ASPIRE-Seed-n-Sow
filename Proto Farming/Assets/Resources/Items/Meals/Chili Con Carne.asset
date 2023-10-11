@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Chili Con Carne
+  m_EditorClassIdentifier: 
+  itemName: Chili Con Carne
+  itemId: 61
+  itemIcon: {fileID: 21300000, guid: 4c8bd4085a659694bbb0ecfdc8b43455, type: 3}
+  itemDescription: This spicy north mexican dish combines meat, chili and rice. Optional
+    veg can be included such as beans, onions and peppers.
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: df6c04b750b720843a6c2347c4707a26,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 18
+  ingridents:
+  - {fileID: 21300000, guid: 3c0d6539ecaafee4882f8691125659c3, type: 3}
+  - {fileID: 21300000, guid: 10887220158b1b84283d747bbe1fc3eb, type: 3}
+  - {fileID: 21300000, guid: a4fc654687dce8f4ea127b45aa0449bd, type: 3}

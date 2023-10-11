@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6889525292906816499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6889525292906816497}
+  - component: {fileID: 6889525292906816496}
+  m_Layer: 0
+  m_Name: DataGathering
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6889525292906816497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6889525292906816499}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6889525292906816496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6889525292906816499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eb60f42d378f0d4bbeb777d31d8c131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TelemetryActive: 1
+  dataJson:
+    UserID: 
+    SessionsID: 
+    Date: 
+    Time: 
+    Location: 
+    DataEntries: []
+    EndOfSessionReport:
+      TimeFinished: 
+      TotalDistanceTravelled: 0
+      TotalCollected: 0
+      TotalTimeSpentInSeconds: 0
+      TotalQuestsProgressedOn: 0
+      QuestsCompleted: 0
+  ListOfUniqueQuestIDs: 
+  CurrentUsedDataEntry: []
+  EntryCheckForThisID_Index: 
+  ListOfNumbers: 
+  FileName: 
+  FolderName: 
+  PHPLocation: http://localhost/GitASPIRE/UploadingJSON.php
+  ParticpantID_IF: {fileID: 0}
+  SessionID_IF: {fileID: 0}
+  Date_IF: {fileID: 0}
+  Time_IF: {fileID: 0}
+  Location_IF: {fileID: 0}
+  UsingDebugUI: 0
+  ActionCompleted_IF: {fileID: 0}
+  UniqueQuestID_IF: {fileID: 0}
+  TypeOfQuestID_IF: {fileID: 0}
+  RequiredAmount_IF: {fileID: 0}
+  CurrentAmount_IF: {fileID: 0}
+  TimeUserStarted_IF: {fileID: 0}
+  TimeUserStopped_IF: {fileID: 0}
+  QuestCompletedToggle: {fileID: 0}
+  PreviewText: {fileID: 0}
+  DateTimeStamp1: 
+  DateTimeStamp2: 

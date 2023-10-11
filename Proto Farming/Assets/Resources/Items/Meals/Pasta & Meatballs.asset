@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Pasta & Meatballs
+  m_EditorClassIdentifier: 
+  itemName: Pasta & Meatballs
+  itemId: 59
+  itemIcon: {fileID: 21300000, guid: 94397ed10c3f5e24881b521008dd25c6, type: 3}
+  itemDescription: A simple meatball dish and pasta
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 0}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 15
+  ingridents:
+  - {fileID: 21300000, guid: 4aac5530b330c79429fcff9978fc0ea4, type: 3}
+  - {fileID: 21300000, guid: 10887220158b1b84283d747bbe1fc3eb, type: 3}
+  - {fileID: 21300000, guid: 0f830be4c0921b4409ec5743e7ea41af, type: 3}

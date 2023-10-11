@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://farming-rpg-game-c06b4-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">379666194857</string>
+  <string name="google_storage_bucket" translatable="false">farming-rpg-game-c06b4.appspot.com</string>
+  <string name="project_id" translatable="false">farming-rpg-game-c06b4</string>
+  <string name="google_api_key" translatable="false">AIzaSyBa5OaQqRLouIzb7JuYO5fA0YvAO69JzDc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBa5OaQqRLouIzb7JuYO5fA0YvAO69JzDc</string>
+  <string name="google_app_id" translatable="false">1:379666194857:android:de0616bacd1c285808e4b8</string>
+  <string name="default_android_client_id" translatable="false">379666194857-2djnuugnbqklnci3b0t4b7r43477s48q.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">379666194857-takmb4ou32iqpmilh1q33c8lkmhjf2uj.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Carrot Cake
+  m_EditorClassIdentifier: 
+  itemName: Carrot Cake
+  itemId: 45
+  itemIcon: {fileID: 21300000, guid: 3a93b1395f156e248a3a5d8229fe2a1f, type: 3}
+  itemDescription: 'Carrot? In a Cake?
+
+    Trust me, its delicious.'
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 0}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 4
+  ingridents:
+  - {fileID: 21300000, guid: bd675d6f69cb4874bb16d76b9e122354, type: 3}
+  - {fileID: 21300000, guid: 910af93396d5c1044a6802213c3c1847, type: 3}
+  - {fileID: 21300000, guid: ea0c1d68d4f3b5e45831f8f8b19a34b2, type: 3}

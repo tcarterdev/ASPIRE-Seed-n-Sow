@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: sco_salt
+  m_EditorClassIdentifier: 
+  itemName: Salt
+  itemId: 6
+  itemIcon: {fileID: 21300000, guid: 065cc70ce8b9d604d888bda9cbb3035f, type: 3}
+  itemDescription: 
+  itemType: 0
+  droppedItemPrefab: {fileID: 6481168432483690060, guid: e076723b658770044968cb60ac0dd6f1,
+    type: 3}
+  canStack: 0
+  maxInStack: 1
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}

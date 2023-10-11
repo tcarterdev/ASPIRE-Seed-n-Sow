@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: BLT
+  m_EditorClassIdentifier: 
+  itemName: BLT
+  itemId: 69
+  itemIcon: {fileID: 21300000, guid: d9ddbfbc4adda534182fcfff5333afbf, type: 3}
+  itemDescription: Bacon, Lettuce and Tomato. A perfect trifecta of texture, savoryness
+    and sweetness. Held together between two pieces of bread.
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: 0a46cf1ef1e16ec4f919afe8f6ce5daa,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 12
+  ingridents:
+  - {fileID: 21300000, guid: f9ef8b98023e55a459e28246c8a18eca, type: 3}
+  - {fileID: 21300000, guid: d60060898f61abd458147bfdcf537fa0, type: 3}
+  - {fileID: 21300000, guid: a0f73d9eea1dd514a8818a6c3e70a785, type: 3}

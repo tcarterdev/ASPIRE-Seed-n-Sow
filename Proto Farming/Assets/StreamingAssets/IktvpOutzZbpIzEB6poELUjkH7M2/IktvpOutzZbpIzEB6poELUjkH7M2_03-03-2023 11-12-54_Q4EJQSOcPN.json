@@ -1,0 +1,23 @@
+{
+    "UserID": "IktvpOutzZbpIzEB6poELUjkH7M2",
+    "SessionsID": "Q4EJQSOcPN",
+    "TimeStamp": "03/03/2023 11:12:54",
+    "Location": "",
+    "DataEntries": [],
+    "EndOfSessionReport": {
+        "TimeFinished": "03/03/2023 11:13:11",
+        "TotalDistanceTravelled": 0.0,
+        "TotalCollected": 0.0,
+        "TimeTotal": 0.28299999237060549,
+        "WalkingQuests_Stats": {
+            "TotalTimeSpent_Minutes": 0.0,
+            "TotalProgressedOn": 0,
+            "TotalCompleted": 0
+        },
+        "CollectingQuests_Stats": {
+            "TotalTimeSpent_Minutes": 0.0,
+            "TotalProgressedOn": 0,
+            "TotalCompleted": 0
+        }
+    }
+}

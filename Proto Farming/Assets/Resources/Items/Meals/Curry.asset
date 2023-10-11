@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Curry
+  m_EditorClassIdentifier: 
+  itemName: Curry
+  itemId: 62
+  itemIcon: {fileID: 21300000, guid: d80a5116ba149714ebe220f5e22fcd0d, type: 3}
+  itemDescription: There are many different types of curry. Indian Style, Bangladeshi,
+    Japanese. Each are amazing in their own way. Our one is a generic version but
+    still carries heat and savoryness.
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: 9dff3a45ac2305d4facd8b1cf67018d5,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 14
+  ingridents:
+  - {fileID: 21300000, guid: c48bbe767585a464fae799d98104b589, type: 3}
+  - {fileID: 21300000, guid: 835cdc3ea57b2b44fb186bbefd92bbea, type: 3}
+  - {fileID: 21300000, guid: a8a0cce0ce5f387438c7efbb97f0d47c, type: 3}

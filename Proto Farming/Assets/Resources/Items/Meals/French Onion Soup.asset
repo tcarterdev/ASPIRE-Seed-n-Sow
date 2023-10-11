@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: French Onion Soup
+  m_EditorClassIdentifier: 
+  itemName: French Onion Soup
+  itemId: 55
+  itemIcon: {fileID: 21300000, guid: 3a29e6b901741164ca6bacfe6f80a443, type: 3}
+  itemDescription: Slow cooked onions release sugars that caramalise to bring rich
+    and deep flavour to this relative simple but time consuimg dish.
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: e1243540b3770a84a8b19ec8816162e4,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 12
+  ingridents:
+  - {fileID: 21300000, guid: dafe0a070a0c228468dadb782bf20769, type: 3}
+  - {fileID: 21300000, guid: 5d9276ff40f733e489d9f29cf6fa6b44, type: 3}
+  - {fileID: 21300000, guid: d60060898f61abd458147bfdcf537fa0, type: 3}

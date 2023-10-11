@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b027d39cf0c9d4b46b04649fe4a1890a, type: 3}
+  m_Name: Caesar Salad
+  m_EditorClassIdentifier: 
+  itemName: Caesar Salad
+  itemId: 54
+  itemIcon: {fileID: 21300000, guid: e30344b9fdc4d8041aa474a387c631d7, type: 3}
+  itemDescription: 'Caesar Salad named not after Julius but after Caesar Cardini.
+
+    Incredibly
+    tasty and healthy. What more could you need.'
+  itemType: 0
+  itemCategory: 1
+  droppedItemPrefab: {fileID: 6739943897105916229, guid: 9ba86d0542a75b04398b52f0674f8518,
+    type: 3}
+  canStack: 0
+  maxInStack: 0
+  buildPrefab: {fileID: 0}
+  plantData: {fileID: 0}
+  buildPreview: {fileID: 0}
+  canEat: 1
+  replenishAmount: 16
+  ingridents:
+  - {fileID: 21300000, guid: 8fd749d3e7da1eb49942cd9dc772461c, type: 3}
+  - {fileID: 21300000, guid: 835cdc3ea57b2b44fb186bbefd92bbea, type: 3}
+  - {fileID: 21300000, guid: a0f73d9eea1dd514a8818a6c3e70a785, type: 3}
